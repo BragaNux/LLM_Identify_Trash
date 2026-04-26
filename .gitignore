@@ -1,0 +1,39 @@
+# Ambiente virtual
+venv/
+env/
+.env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Modelos treinados (pesados demais pro GitHub)
+*.h5
+*.keras
+*.tflite
+*.pkl
+
+# Datasets (baixe diretamente do Kaggle)
+dataset_final/
+garbage_classification/
+original/
+data/
+
+# Arquivos gerados pelo treino
+grafico_treino.png
+classes.txt
+screenshot_*.png
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
