@@ -212,6 +212,6 @@ As classes com melhor desempenho foram papelao, metal e plastic, que têm caract
 ## Referências
 
 - Howard, A. et al. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. arXiv, 2017.
-- Garbage Classification Dataset - Mostafa Abla (Kaggle)
-- Garbage Classification v2 - sumn2u (Kaggle)
+- Garbage Classification Dataset - Mostafa Abla (Kaggle) - https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+- Garbage Classification v2 - sumn2u (Kaggle) - https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
 - TensorFlow Lite - https://www.tensorflow.org/lite
