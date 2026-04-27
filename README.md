@@ -216,3 +216,4 @@ As classes com melhor desempenho foram papelao, metal e plastic, que têm caract
 - Garbage Classification v2 - sumn2u (Kaggle) - https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
 - TensorFlow Lite - https://www.tensorflow.org/lite
 - Backup caso aconteça algo, com tudo - https://mega.nz/file/e75VXAbC#H2cp17278sYiaPISAvUPL-3lvHcD9dCg2ieWEsAP3no
+- Documento faltante - https://mega.nz/file/DyxUEAZI#w_K4aaymlDuGqrAlQAkp71PuhGAAwKURnWGG3VfzTks
